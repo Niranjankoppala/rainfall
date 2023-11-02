@@ -15,4 +15,9 @@
 
 ![Screenshot (26)](https://github.com/Niranjankoppala/rainfall/assets/103758678/93b8867e-50b8-464d-a3a5-e43a2c521014)
 
+# Improvements need to be done
+1. used only 2 algorithms
+2. Not deployed in any cloud
+3. Tuning is not performed
+
 
